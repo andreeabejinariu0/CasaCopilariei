@@ -1,0 +1,15 @@
+C:\Users\CORNELIU\Desktop\BejinariuAndreeaAtestat\BejinariuAndreeaAtestat\bin\Debug\BejinariuAndreeaAtestat.exe.config
+C:\Users\CORNELIU\Desktop\BejinariuAndreeaAtestat\BejinariuAndreeaAtestat\bin\Debug\BejinariuAndreeaAtestat.exe
+C:\Users\CORNELIU\Desktop\BejinariuAndreeaAtestat\BejinariuAndreeaAtestat\bin\Debug\BejinariuAndreeaAtestat.pdb
+C:\Users\CORNELIU\Desktop\BejinariuAndreeaAtestat\BejinariuAndreeaAtestat\obj\Debug\CasaCopilariei.csproj.AssemblyReference.cache
+C:\Users\CORNELIU\Desktop\BejinariuAndreeaAtestat\BejinariuAndreeaAtestat\obj\Debug\CasaCopilariei.csproj.SuggestedBindingRedirects.cache
+C:\Users\CORNELIU\Desktop\BejinariuAndreeaAtestat\BejinariuAndreeaAtestat\obj\Debug\BejinariuAndreeaAtestat.Generic.resources
+C:\Users\CORNELIU\Desktop\BejinariuAndreeaAtestat\BejinariuAndreeaAtestat\obj\Debug\BejinariuAndreeaAtestat.About.resources
+C:\Users\CORNELIU\Desktop\BejinariuAndreeaAtestat\BejinariuAndreeaAtestat\obj\Debug\BejinariuAndreeaAtestat.Nivel3.resources
+C:\Users\CORNELIU\Desktop\BejinariuAndreeaAtestat\BejinariuAndreeaAtestat\obj\Debug\BejinariuAndreeaAtestat.Nivel1.resources
+C:\Users\CORNELIU\Desktop\BejinariuAndreeaAtestat\BejinariuAndreeaAtestat\obj\Debug\BejinariuAndreeaAtestat.Nivel2.resources
+C:\Users\CORNELIU\Desktop\BejinariuAndreeaAtestat\BejinariuAndreeaAtestat\obj\Debug\BejinariuAndreeaAtestat.Properties.Resources.resources
+C:\Users\CORNELIU\Desktop\BejinariuAndreeaAtestat\BejinariuAndreeaAtestat\obj\Debug\CasaCopilariei.csproj.GenerateResource.cache
+C:\Users\CORNELIU\Desktop\BejinariuAndreeaAtestat\BejinariuAndreeaAtestat\obj\Debug\CasaCopilariei.csproj.CoreCompileInputs.cache
+C:\Users\CORNELIU\Desktop\BejinariuAndreeaAtestat\BejinariuAndreeaAtestat\obj\Debug\BejinariuAndreeaAtestat.exe
+C:\Users\CORNELIU\Desktop\BejinariuAndreeaAtestat\BejinariuAndreeaAtestat\obj\Debug\BejinariuAndreeaAtestat.pdb
